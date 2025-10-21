@@ -27,10 +27,13 @@ Instalar las dependencias necesarias con el siguiente comando:
 
 ```bash
 pip install -r requirements.txt
+```
+---
 
+## Contenido del archivo requirements.txt:
 pyttsx3
 SpeechRecognition
-```
+
 ---
 
 ## ▶️ Ejecución
