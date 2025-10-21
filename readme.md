@@ -32,6 +32,7 @@ pip install -r requirements.txt
 
 ## Contenido del archivo requirements.txt:
 pyttsx3
+
 SpeechRecognition
 
 ---
