@@ -98,6 +98,9 @@ Interfaces de voz para automatización.
 ## 👨‍💻 Autor
 
 Proyecto desarrollado por Maximiliano Ruiz
+
 📚 Tecnicatura Superior en Ciencia de Datos e Inteligencia Artificial
+
 🧾 Materia: Procesamiento del Habla
+
 📅 Año: 2025
